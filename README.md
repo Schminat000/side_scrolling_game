@@ -2,9 +2,9 @@
 
 The game is incomplete; however, I plan on making it a functional and fun game! You are a little fox and you can run around and jump. This provides the basics for a game to be made in the future.
 
-I created this game so that I could start learning how to become a game developer. I am passionate about video games and wanted to make a simple 2D side-scroller. I love side-scrollers and am excited to continue to learn more. This project really helped me learn more about what it take to develop games. I am excited to learn more tools in the future to help fine tune these skills. I hope to take these skills I've learned from this project onto the next one.
+I created this game so that I could start learning how to become a game developer. I am passionate about video games and wanted to make a simple 2D side-scroller. I love side-scrollers and am excited to continue to learn more. This project really helped me learn more about what it takes to develop games. I am excited to learn more tools in the future to help fine tune these skills. I hope to take these skills I've learned from this project onto the next one.
 
-[Software Demo Video]()
+[Software Demo Video](https://youtu.be/63eyW9eYudY)
 
 # Development Environment
 
